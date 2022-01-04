@@ -1,5 +1,5 @@
 # GoFundMe Raised Money Scraper
-The code in the jupyter notebook goes through a list of links in a csv file called 'links.csv' and creates a csv called 'results.csv' with information about how much money was raised for each GoFundMe link.
+The code in the jupyter 'Notebook.ipynb' goes through a list of links in a csv file called 'links.csv' and creates a csv called 'results.csv' with information about how much money was raised for each GoFundMe link.
 
 Check out the included links.csv file to see how to set it up and the results.csv file to see what the output looks like.
 
